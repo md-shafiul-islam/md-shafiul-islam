@@ -2,9 +2,9 @@
 Full-Stack Developer | JavaScript Enthusiast
 I’m passionate about building high-performance, user-centric web applications. From clean React UIs to scalable Node.js backends, I focus on delivering seamless and efficient solutions for every part of the stack.
 
-What I Do:
-Frontend: Designing modern, responsive UIs with React and Next.js. Crafting engaging experiences that work flawlessly on every device.
-Backend: Building powerful APIs with Node.js and Express. Optimizing performance to handle high traffic and ensure scalability.
+### What I Do:
+- #### Frontend: Designing modern, responsive UIs with React and Next.js. Crafting engaging experiences that work flawlessly on every device.
+- #### Backend: Building powerful APIs with Node.js and Express. Optimizing performance to handle high traffic and ensure scalability.
 Code Quality: Writing clean, maintainable, and well-tested code that lasts.
 Technologies I Love:
 Frontend: React, Next.js, JavaScript (ES6+), CSS-in-JS, HTML5
