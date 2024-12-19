@@ -1,5 +1,5 @@
 ## Hi, I’m Md Shafiu Islam 👋
-###Full-Stack Developer | JavaScript Enthusiast
+### Full-Stack Developer | JavaScript Enthusiast
 I’m passionate about building high-performance, user-centric web applications. From clean React UIs to scalable Node.js backends, I focus on delivering seamless and efficient solutions for every part of the stack.
 
 ## What I Do:
