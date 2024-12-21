@@ -8,7 +8,7 @@ I’m passionate about building high-performance, user-centric web applications.
 - ### Code Quality: Writing clean, maintainable, and well-tested code that lasts.
 
 ## Technologies I Love:
-- *Frontend:* React, Next.js, JavaScript (ES6+), CSS-in-JS, HTML5
+- *Frontend:* React, Next.js, JavaScript (ES6+), CSS, HTML5, TailwindCSS
 - *Backend:* Node.js, Express, REST APIs,TypeORM, MongoDB, MySQL, PostgreSQL
 - *Tools:* Git, Axios, Nginx
 ## Why I Code:
